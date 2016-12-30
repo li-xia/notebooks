@@ -1,4 +1,4 @@
-# My Notebooks for Statitical Learning and Machine Learning
+# My Notebooks for Statitics and Machine Learning
 
-# INDEX
+<h2>INDEX</h2>
 1. Multivariate Gaussian Basics - 'multivariate_gaussian.ipynb'
