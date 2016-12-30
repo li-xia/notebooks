@@ -1,2 +1,1 @@
-# notebooks
-Jupyter Notebooks for statistical learning and machine learning
+# My Notebooks for Statitical Learning and Machine Learning
